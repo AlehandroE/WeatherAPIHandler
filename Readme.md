@@ -4,10 +4,10 @@
 - `sudo apt update`
 - `sudo apt install redis-server`
 - Открываем конфиг редиса
- -- `sudo nano /etc/redis/redis.conf`
- и меняем: 
- -- `supervised no` -> `supervised systemd`
- сохраняемся и выходим
+- `sudo nano /etc/redis/redis.conf`
+- и меняем: 
+- `supervised no` -> `supervised systemd`
+- сохраняемся и выходим
 - `sudo systemctl restart redis.service`
 
 ## В корне проекта вызываем:
