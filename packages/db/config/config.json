@@ -1,0 +1,14 @@
+{
+  "development": {
+    "basicAuth": { "username": "default", "password": "Izij8xxqu~z3" },
+    "url": "https://ji4o3ayz5v.eu-central-1.aws.clickhouse.cloud",
+    "port": 8443,
+    "database": "default"
+  },
+  "test": {
+    "basicAuth": { "username": "default", "password": "Izij8xxqu~z3" },
+    "url": "https://ji4o3ayz5v.eu-central-1.aws.clickhouse.cloud",
+    "port": 8443,
+    "database": "default"
+  }
+}

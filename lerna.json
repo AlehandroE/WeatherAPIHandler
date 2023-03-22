@@ -1,0 +1,5 @@
+{
+  "packages": ["mock", "weatherApi", "packages/*"],
+  "version": "0.0.0",
+  "npmClient": "yarn"
+}
